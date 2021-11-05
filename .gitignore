@@ -35,3 +35,5 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/New Physics Material 2D.physicsMaterial2D.meta
+*.meta
